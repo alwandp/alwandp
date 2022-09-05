@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a person who loves to learn ✨ _Programming_ ✨.
-
 - 🔭 I’m currently a student at STT Terpadu Nurul Fikri 
 - 🌱 I’m currently learning about Web Development
 - 📫 How to reach me: alwandp34@gmail.com

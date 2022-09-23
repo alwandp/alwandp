@@ -11,5 +11,5 @@
 - ⚡ Fun fact: ... -->
 
 ### Github Statistic
-![Alwan's Github](https://github-readme-stats.vercel.app/api?username=alwandp&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwandp&layout=compact&langs_count=8)](https://github.com/alwandp/github-readme-stats)
+![Alwan's Github](https://github-readme-stats.vercel.app/api?username=alwandp&show_icons=true)

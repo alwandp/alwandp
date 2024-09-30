@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a student at STT Terpadu Nurul Fikri 
+- 🔭 I’m currently a Front-end Web Developer
 - 🌱 I’m currently learning about Web Development
 - 📫 How to reach me: alwandp34@gmail.com
 
